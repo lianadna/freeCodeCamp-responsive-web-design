@@ -8,4 +8,4 @@ This is a collection of practice projects that I’ve worked on while learning v
 |-----------|-------------|--------|
 | `responsive-web-design` | Projects focused on HTML & CSS, responsive layouts, and accessibility | 🔧 In Progress |
 
-More folders and topics may be added over time.
+More directories and topics may be added over time.
