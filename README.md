@@ -1,6 +1,6 @@
 # Practice Projects with freeCodeCamp
 
-Each directory in this repository represents a different learning path or topic area.
+This is a collection of practice projects that I’ve worked on while learning various topics. Each directory in this repository represents a different learning path or topic area.
 
 ## Project Structure
 
