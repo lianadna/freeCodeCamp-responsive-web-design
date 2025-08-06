@@ -20,9 +20,7 @@
                         </p>
                     </div>
                     <div class="column-image">
-                        <div class="image-div">
-                            <img src="https://cdn.pixabay.com/photo/2017/10/08/19/55/magnifying-glass-2831367_1280.png" height="400" alt="Survey form icon" />
-                        </div>
+                            <img src="images/spiral-galaxy.png" height="400" alt="Survey form icon" />
                     </div>
                 </div>
             
@@ -96,6 +94,7 @@
                                 name="purpose-clarity"
                                 value="figuring-out"
                                 class="input-radio"
+                                checked
                             /> Still figuring it out</label>
                         <label>
                             <input
@@ -113,6 +112,7 @@
                                 name="drives"
                                 value="helping-others"
                                 class="input-checkbox"
+                                checked
                             /> Helping others</label>
                         <label>
                             <input
@@ -127,6 +127,7 @@
                                 name="drives"
                                 value="making-difference" 
                                 class="input-checkbox"
+                                checked
                             /> Making a difference in the world</label>
                         <label>
                             <input
@@ -170,16 +171,15 @@
                             id="pursuit"
                             name="pursuit"
                             class="input-textarea"
-                            placeholder="Write your dreams here..."
-                            rows="4">
-                        </textarea>
+                            placeholder="Write your dreams here..."></textarea>
+                    </div>
+                    <div class="form-group">
                         <label for="success">What does 'success' mean to you personally?</label>
                         <textarea
                             id="success"
                             name="success"
-                            placeholder="Share your definition of success..."
-                            rows="4">
-                        </textarea>
+                            class="input-textarea"
+                            placeholder="Share your definition of success..."></textarea>
                     </div>
                     <div class="form-group">
                         <label for="comments">Any comments or reflections you'd like to share?</label>
@@ -187,11 +187,9 @@
                             id="comments"
                             name="comments"
                             class="input-textarea"
-                            placeholder="Write from the heart..."
-                            rows="4">
-                        </textarea>
+                            placeholder="Write from the heart..."></textarea>
                     </div>
-                    <div class="form-group">
+                    <div class="form-group submit-container">
                         <button
                             type="submit"
                             id="submit"
@@ -202,7 +200,8 @@
             </div>
         </main>
         <footer>
-            <p>© 2025 The Why Behind You Survey. Crafted with care for curious minds.</p>
+            <p>© 2025 The Why Behind You Survey<br>
+            Crafted with care for curious minds.</p>
         </footer>
     </body>
 </html>
