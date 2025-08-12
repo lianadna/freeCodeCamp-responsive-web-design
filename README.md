@@ -1,4 +1,4 @@
-# Responsive Web Design Certification Projects
+# Responsive Web Design Certification
 
 [freeCodeCamp](https://www.freeCodeCamp.org/) is a free, open-source learning platform that offers interactive lessons, hands-on projects, and certifications in web development, machine learning, and more. Every certification is earned by completing practical projects that demonstrate real-world coding skills.
 
